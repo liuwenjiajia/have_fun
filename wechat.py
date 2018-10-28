@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 微信给好友数羊小程序
-# author: liuwenjiajia  
+# author: liuwenjiajia
 import itchat
 import time
 import sys
